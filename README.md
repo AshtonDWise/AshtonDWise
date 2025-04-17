@@ -3,7 +3,7 @@
 ### Just a little about me
 I am a current student at Auburn University pursuing my undergrad in software engineering.
 
-- Take a look at my coursework below!
+- Take a look at my coursework below! (Coming Soon... I have to find it all)
 - If you have any suggestions on my projects let me know!
 
 
