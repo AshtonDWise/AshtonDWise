@@ -15,7 +15,7 @@ I am a current student at Auburn University pursuing my undergrad in software en
 ### Coursework  
 - [COMP-1210](https://github.com/AshtonDWise/COMP-1210) | Fundamentals of Computing I
 - [COMP-2210](https://github.com/AshtonDWise/COMP-2210) | Fundamentals of Computing II
-- COMP-2710 | Software Construction
+- [COMP-2710](https://github.com/AshtonDWise/COMP-2710) | Software Construction
 - COMP-3320 | Principles of Programming Languages
 - COMP-3500 | Intro to Operating Systems
 - COMP-3700 | Software Modeling and Design
