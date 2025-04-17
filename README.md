@@ -1,4 +1,4 @@
-[Linkedin](https://www.linkedin.com/in/ashton-wise-1ba2ab259) 
+[Linkedin](https://www.linkedin.com/in/ashton-wise-1ba2ab259) [Discord](https://www.discordapp.com/users/a.wise) [Email](mailto:ashtondeanwise@gmail.com) 
 
 ### Just a little about me
 I am a current student at Auburn University pursuing my undergrad in software engineering.
